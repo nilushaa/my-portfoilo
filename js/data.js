@@ -1,4 +1,28 @@
 export default [
+
+  {
+   
+    title: "imtoh",
+    github: "https://github.com/nilushaa/Imtihon-3-oy",
+    vercel: "https://imtihon-3-oy-teal.vercel.app,
+  },
+
+  {
+   
+    title: "",
+    github: "https://github.com/nilushaa/figma",
+    vercel: "https://figma-seven-xi.vercel.app",
+  },
+
+  {
+   
+    title: "PERFUME",
+    github: "https://github.com/nilushaa/PERFUME",
+    vercel: "https://perfume-opal-psi.vercel.app",
+  },
+
+  
+  
   {
     title: "Ansormed",
     github: "https://github.com/nilushaa/ansormed1",
@@ -6,12 +30,7 @@ export default [
   },
 
   {
-    title: "akademnashiir",
-    github: "https://github.com/nilushaa/akademnashiir",
-    vercel: "https://akademnashiir.vercel.app",
-  },
-
-  {
+   
     title: "sport-power",
     github: "https://github.com/nilushaa/sport-power",
     vercel: "https://sport-power.vercel.app",
