@@ -3,7 +3,7 @@ export default [
    
     title: "imtoh",
     github: "https://github.com/nilushaa/Imtihon-3-oy",
-    vercel: "https://imtihon-3-oy-teal.vercel.app,
+    vercel: "https://imtihon-3-oy-teal.vercel.app",
   },
 
   {
