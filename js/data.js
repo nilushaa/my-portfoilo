@@ -1,6 +1,14 @@
 export default [
   {
    
+    title: "figma",
+    github: "https://github.com/nilushaa/4-oy-3-uy-fazifa-figma",
+    vercel: "https://4-oy-3-uy-fazifa-figma.vercel.app",
+  },
+
+
+  {
+   
     title: "imtoh",
     github: "https://github.com/nilushaa/Imtihon-3-oy",
     vercel: "https://imtihon-3-oy-teal.vercel.app",
@@ -8,7 +16,7 @@ export default [
 
   {
    
-    title: "",
+    title: "Figma",
     github: "https://github.com/nilushaa/figma",
     vercel: "https://figma-seven-xi.vercel.app",
   },
