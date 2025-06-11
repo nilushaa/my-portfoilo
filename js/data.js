@@ -1,5 +1,12 @@
 export default [
-  
+  {
+   
+    title: "NIlush-shopping",
+    github: "https://github.com/nilushaa/5.6",
+    vercel: "https://5-6-nine.vercel.app",
+  },
+
+
   {
    
     title: "figma",

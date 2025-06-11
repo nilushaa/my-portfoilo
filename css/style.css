@@ -1,28 +1,35 @@
-/* noto-serif-regular - latin */
+/* averia-serif-libre-regular - latin */
 @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: "Noto Serif";
-    font-style: normal;
-    font-weight: 400;
-    src: url("../fonts/noto-serif-v28-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-  }
-  /* noto-serif-500 - latin */
-  @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: "Noto Serif";
-    font-style: normal;
-    font-weight: 500;
-    src: url("../fonts/noto-serif-v28-latin-500.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-  }
-  /* noto-serif-700 - latin */
-  @font-face {
-    font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-    font-family: "Noto Serif";
-    font-style: normal;
-    font-weight: 700;
-    src: url("../fonts/noto-serif-v28-latin-700.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-  }
-  
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Averia Serif Libre';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/averia-serif-libre-v18-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* beth-ellen-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Beth Ellen';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/beth-ellen-v21-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* blaka-hollow-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Blaka Hollow';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/blaka-hollow-v7-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* bonbon-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bonbon';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/bonbon-v30-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
   *,
   *::after,
   *::before {
@@ -57,11 +64,11 @@
     display: flex;
     flex-direction: column;
     height: 100%;
-    font-family: "Noto Serif", serif;
-   background-image: url(https://sotni.ru/wp-content/uploads/2023/08/milye-multiashnye-kotiata-2.webp);
- background-repeat: no-repeat
+    font-family: 'Averia Serif Libre';
+   background-image: url(https://celes.club/uploads/posts/2022-11/52812/1667398316_24-celes-club-p-fon-s-ramkoi-dlya-prezentatsii-krasivo-25.jpg );
+ background-repeat: no-repeat;
  background-size: cover;
-    color: magenta;
+    /* color: magenta; */
  
   }
   
@@ -141,12 +148,17 @@
   
   .header__title {
     font-size: 80px;
-
-    &:hover{
+    font-family: 'Bonbon';
+    font-size: 70px;
+    margin-bottom: 40px;
+   &:hover{
     color: blue;
     }
   }
   .header__description {
+    font-family: 'Bonbon';
+    text-align: center;
+   
   }
   
   .footer {
