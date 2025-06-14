@@ -1,4 +1,13 @@
 export default [
+
+  {
+   
+    title: "Nilu - shopping",
+    github: "https://github.com/nilushaa/5.6",
+    vercel: "https://5-6-nine.vercel.app",
+  },
+
+
   {
    
     title: "N - shopping",

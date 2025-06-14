@@ -66,8 +66,8 @@
     height: 100%;
     font-family: 'Averia Serif Libre';
    background-image: url(https://celes.club/uploads/posts/2022-11/52812/1667398316_24-celes-club-p-fon-s-ramkoi-dlya-prezentatsii-krasivo-25.jpg );
- background-repeat: no-repeat;
- background-size: cover;
+   /* background-repeat: no-repeat;
+   background-size: cover; */
     /* color: magenta; */
  
   }
