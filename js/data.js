@@ -1,4 +1,11 @@
 export default [
+  {
+   
+    title: "figma",
+    github: "https://github.com/nilushaa/figma-ofla",
+    vercel: "https://figma-oflayn.vercel.app",
+  },
+
 
   {
    
