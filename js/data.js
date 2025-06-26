@@ -1,6 +1,12 @@
 export default [
   {
    
+    title: "Kitoblar",
+    github: "https://github.com/nilushaa/3dars",
+    vercel: "https://3dars-three.vercel.app",
+  },
+  {
+   
     title: "figma",
     github: "https://github.com/nilushaa/figma-ofla",
     vercel: "https://figma-oflayn.vercel.app",
