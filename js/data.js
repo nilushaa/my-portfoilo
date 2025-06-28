@@ -1,13 +1,13 @@
 export default [
   {
    
-    title: "Kitoblar",
+    title: "Books",
     github: "https://github.com/nilushaa/3dars",
     vercel: "https://3dars-three.vercel.app",
   },
   {
    
-    title: "figma", 
+    title: "RANDOM USER GENERATOR ", 
     github: "https://github.com/nilushaa/figma-ofla",
     vercel: "https://figma-oflayn.vercel.app",
   },
@@ -15,20 +15,10 @@ export default [
 
   {
    
-    title: "Nilu - shopping",
+    title: "shopping",
     github: "https://github.com/nilushaa/5.6",
     vercel: "https://5-6-nine.vercel.app",
   },
-
-
-  {
-   
-    title: "N - shopping",
-    github: "https://github.com/nilushaa/5.6",
-    vercel: "https://5-6-nine.vercel.app",
-  },
-
-
   {
    
     title: "NIlush-shopping",
@@ -54,7 +44,7 @@ export default [
 
   {
    
-    title: "Figma",
+    title: "best talent",
     github: "https://github.com/nilushaa/figma",
     vercel: "https://figma-seven-xi.vercel.app",
   },
@@ -84,7 +74,7 @@ export default [
   {
     title: "nilushaa/3-oy-1-figmaa",
     github: "https://3-oy-1-figmaa.vercel.app",
-    vercel: "",
+    vercel: "https://3-oy-1-figmaa.vercel.app",
   },
   {
     title: "figma-3",
