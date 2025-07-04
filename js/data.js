@@ -2,6 +2,13 @@ export default [
   {
    
     title: "Clothing Collection",
+    github: "https://github.com/nilushaa/6.7",
+    vercel: "https://6-7-ruddy.vercel.app",
+  },
+
+  {
+   
+    title: "Clothing Collection",
     github: "https://github.com/nilushaa/6..6",
     vercel: "https://6-6-one.vercel.app",
   },
