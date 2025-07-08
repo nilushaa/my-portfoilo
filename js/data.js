@@ -1,7 +1,13 @@
 export default [
   {
    
-    title: "Clothing Collection",
+    title: "lesson",
+    github: "https://github.com/nilushaa/leeson",
+    vercel: "https://leeson-two.vercel.app",
+  },
+  {
+   
+    title: "Olayn shoping:)",
     github: "https://github.com/nilushaa/6.7",
     vercel: "https://6-7-ruddy.vercel.app",
   },
