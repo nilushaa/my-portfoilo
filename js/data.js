@@ -63,6 +63,12 @@ export default [
     github: "https://github.com/nilushaa/5.3.uyvazifa",
     vercel: "https://5-3-uyvazifa.vercel.app",
   },
+  {
+   
+    title: "FinSweet",
+    github: "https://github.com/nilushaa/4-oy-3-uy-fazifa-figma",
+    vercel: "https://4-oy-3-uy-fazifa-figma.vercel.app",
+  },
 
 
   {
