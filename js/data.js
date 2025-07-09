@@ -26,6 +26,12 @@ export default [
   },
   {
    
+    title: "mucic",
+    github: "https://github.com/nilushaa/mucic",
+    vercel: "https://my-portfoilo-eta.vercel.app",
+  },
+  {
+   
     title: "RANDOM USER GENERATOR ", 
     github: "https://github.com/nilushaa/figma-ofla",
     vercel: "https://figma-oflayn.vercel.app",
