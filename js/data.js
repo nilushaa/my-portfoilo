@@ -28,7 +28,7 @@ export default [
    
     title: "mucic",
     github: "https://github.com/nilushaa/mucic",
-    vercel: "https://my-portfoilo-eta.vercel.app",
+    vercel: "https://mucic.vercel.app",
   },
   {
    
