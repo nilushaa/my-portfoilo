@@ -52,7 +52,7 @@ export default [
   },
   {
    
-    title: "imtoh",
+    title: "ertaklar olami:)",
     github: "https://github.com/nilushaa/5.3.uyvazifa",
     vercel: "https://5-3-uyvazifa.vercel.app",
   },
