@@ -52,6 +52,13 @@ export default [
   },
   {
    
+    title: "Desserts",
+    github: "https://github.com/nilushaa/figma-MMY",
+    vercel: "https://5-3-uyvazifa-kyyk.vercel.app",
+  },
+
+  {
+   
     title: "ertaklar olami:)",
     github: "https://github.com/nilushaa/5.3.uyvazifa",
     vercel: "https://5-3-uyvazifa.vercel.app",
