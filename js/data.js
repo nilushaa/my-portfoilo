@@ -1,6 +1,18 @@
 export default [
   {
    
+    title: "sNIlushop",
+    github: "https://github.com/nilushaa/shooping",
+    vercel: "https://shooping-eight.vercel.app",
+  },
+  {
+   
+    title: "shooping",
+    github: "https://github.com/nilushaa/shooping",
+    vercel: "https://shooping-eight.vercel.app",
+  },
+  {
+   
     title: "lesson",
     github: "https://github.com/nilushaa/leeson",
     vercel: "https://leeson-two.vercel.app",
