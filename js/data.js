@@ -1,7 +1,7 @@
 export default [
   {
    
-    title: "sNIlushop",
+    title: "NIlushop",
     github: "https://github.com/nilushaa/shooping",
     vercel: "https://shooping-eight.vercel.app",
   },
