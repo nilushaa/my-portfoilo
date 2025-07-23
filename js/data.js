@@ -7,6 +7,12 @@ export default [
   },
   {
    
+    title: "user",
+    github: "https://github.com/nilushaa/3darsii",
+    vercel: "https://3darsii.vercel.app",
+  },
+  {
+   
     title: "NIlushop",
     github: "https://github.com/nilushaa/shooping",
     vercel: "https://shooping-eight.vercel.app",
