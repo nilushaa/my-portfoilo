@@ -1,6 +1,12 @@
 export default [
   {
    
+    title: "shopping:)",
+    github: "https://github.com/nilushaa/4dars",
+    vercel: "https://4dars-chi.vercel.app",
+  },
+  {
+   
     title: "NIlushop",
     github: "https://github.com/nilushaa/shooping",
     vercel: "https://shooping-eight.vercel.app",
