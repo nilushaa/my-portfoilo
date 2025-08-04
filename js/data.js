@@ -61,12 +61,7 @@ export default [
     vercel: "https://figma-oflayn.vercel.app",
   },
 
-  {
-   
-    title: "Desserts",
-    github: "https://github.com/nilushaa/figma-MMY",
-    vercel: "https://5-3-uyvazifa-kyyk.vercel.app",
-  },
+
 
   {
    
